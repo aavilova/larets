@@ -1,0 +1,988 @@
+/* line 7, app/assets/stylesheets/about.scss */
+body {
+  font-family: 'Proxima Nova';
+}
+
+/* line 10, app/assets/stylesheets/about.scss */
+section {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+/* line 16, app/assets/stylesheets/about.scss */
+.first {
+  background-color: #000;
+  background-image: url(section1-783d3ceef90d69f9223f8a808130ce03527677295e3fac20717867838e3b31e3.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 23, app/assets/stylesheets/about.scss */
+.first .mainpage {
+  margin: 10.556vw 4.167vw;
+  margin-top: 35.5vw;
+}
+
+/* line 26, app/assets/stylesheets/about.scss */
+.first .mainpage h1 {
+  color: #ECE1CF;
+  font-size: 16.667vw;
+  line-height: 100%;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+/* line 33, app/assets/stylesheets/about.scss */
+.first .mainpage h3 {
+  font-size: 2.6vw;
+  color: #ECE1CF;
+  margin-top: -30px;
+  font-weight: 600;
+}
+
+/* line 41, app/assets/stylesheets/about.scss */
+.second {
+  background-color: #ECE1CF;
+  background-image: url(section2-f6f7be224bb29ef72bf4be91c2d51987596d93fc223b135d03d234583c61ac24.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 48, app/assets/stylesheets/about.scss */
+.second .textblock2 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 50, app/assets/stylesheets/about.scss */
+.second .textblock2 h2 {
+  margin: 0;
+}
+
+/* line 53, app/assets/stylesheets/about.scss */
+.second .textblock2 .blackhead {
+  color: #000;
+}
+
+/* line 56, app/assets/stylesheets/about.scss */
+.second .textblock2 .about {
+  color: #000;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  width: 54.167vw;
+  margin-top: 4.861vw;
+}
+
+/* line 66, app/assets/stylesheets/about.scss */
+.third {
+  background-color: #000;
+}
+
+/* line 68, app/assets/stylesheets/about.scss */
+.third .pics3 {
+  margin: 6.25vw 10.556vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 73, app/assets/stylesheets/about.scss */
+.third .pics3 .quote_3 img {
+  width: 62.292vw;
+  height: auto;
+}
+
+/* line 78, app/assets/stylesheets/about.scss */
+.third .pics3 .c_3 {
+  margin-left: -9vw;
+  margin-top: 8vw;
+}
+
+/* line 81, app/assets/stylesheets/about.scss */
+.third .pics3 .c_3 img {
+  width: 35vw;
+  height: auto;
+}
+
+/* line 88, app/assets/stylesheets/about.scss */
+.forth {
+  background-color: #ECE1CF;
+  background-image: url(section4-770427c5ff1ffa2650b2f3f15caaf76721f93dd84e551e667beedaa5dc4d2541.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 95, app/assets/stylesheets/about.scss */
+.forth .textblock4 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 97, app/assets/stylesheets/about.scss */
+.forth .textblock4 h2 {
+  margin: 0;
+}
+
+/* line 100, app/assets/stylesheets/about.scss */
+.forth .textblock4 .blackhead {
+  color: #000;
+}
+
+/* line 103, app/assets/stylesheets/about.scss */
+.forth .textblock4 .define {
+  margin: 4.861vw 0;
+  color: #000;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  width: 54vw;
+}
+
+/* line 113, app/assets/stylesheets/about.scss */
+.fifth {
+  background-color: #CD4223;
+}
+
+/* line 115, app/assets/stylesheets/about.scss */
+.fifth .pics5 {
+  margin: 6.25vw 10.556vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 119, app/assets/stylesheets/about.scss */
+.fifth .pics5 .quote5 {
+  margin-left: -18vw;
+}
+
+/* line 121, app/assets/stylesheets/about.scss */
+.fifth .pics5 .quote5 img {
+  width: 66.389vw;
+  height: auto;
+}
+
+/* line 126, app/assets/stylesheets/about.scss */
+.fifth .pics5 .c5 {
+  margin-top: 13vw;
+  margin-left: -18vw;
+}
+
+/* line 129, app/assets/stylesheets/about.scss */
+.fifth .pics5 .c5 img {
+  width: 50vw;
+  height: auto;
+}
+
+/* line 136, app/assets/stylesheets/about.scss */
+.sixth {
+  background-color: #000;
+  background-image: url(section6-ea94c160b78e64b0fc8630347a461c78b0ba717667ae86d45ba30b9b6c148d26.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 143, app/assets/stylesheets/about.scss */
+.sixth .textblock6 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 145, app/assets/stylesheets/about.scss */
+.sixth .textblock6 h2 {
+  font-size: 6.667vw;
+  font-weight: 600;
+  line-height: 88%;
+  margin: 0;
+}
+
+/* line 151, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .whitehead {
+  color: #ECE1CF;
+}
+
+/* line 154, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .statistic {
+  margin: 4.861vw 0;
+  color: #ECE1CF;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  width: 54vw;
+}
+
+/* line 162, app/assets/stylesheets/about.scss */
+.sixth .textblock6 h6 {
+  color: #ECE1CF;
+  font-size: 1.667vw;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* line 168, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .question {
+  color: #ECE1CF;
+  margin: 18px 0;
+  font-size: 1.389vw;
+  font-weight: 300;
+  line-height: 125%;
+}
+
+/* line 175, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers {
+  margin-top: 2.778vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 179, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .yes {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 182, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .yes .form1 {
+  width: 1.736vw;
+  height: 1.736vw;
+  background-color: #CD4223;
+  border-radius: 50%;
+}
+
+/* line 188, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .yes .txt {
+  margin-left: 1vw;
+  font-size: 1.389vw;
+  font-weight: 600;
+  line-height: 125%;
+  color: #ECE1CF;
+}
+
+/* line 196, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .no {
+  margin-left: 2vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 200, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .no .form2 {
+  width: 1.736vw;
+  height: 1.736vw;
+  background-color: #ECE1CF;
+  border-radius: 50%;
+}
+
+/* line 206, app/assets/stylesheets/about.scss */
+.sixth .textblock6 .answers .no .txt {
+  margin-left: 1vw;
+  font-size: 1.389vw;
+  font-weight: 600;
+  line-height: 125%;
+  color: #ECE1CF;
+}
+
+/* line 217, app/assets/stylesheets/about.scss */
+.seventh {
+  background-color: #ECE1CF;
+}
+
+/* line 219, app/assets/stylesheets/about.scss */
+.seventh .blackhead {
+  margin: 6.25vw 10.556vw;
+  color: #000;
+}
+
+/* line 223, app/assets/stylesheets/about.scss */
+.seventh .pics7 {
+  display: flex;
+  flex-direction: row;
+  margin-top: -4.861vw;
+}
+
+/* line 227, app/assets/stylesheets/about.scss */
+.seventh .pics7 .quote7 {
+  margin-left: 10.556vw;
+  position: relative;
+  z-index: 6;
+}
+
+/* line 231, app/assets/stylesheets/about.scss */
+.seventh .pics7 .quote7 img {
+  width: 60.764vw;
+  height: auto;
+}
+
+/* line 236, app/assets/stylesheets/about.scss */
+.seventh .pics7 .c7 {
+  position: relative;
+  z-index: 5;
+  margin-left: -21vw;
+  margin-top: -16.556vw;
+}
+
+/* line 241, app/assets/stylesheets/about.scss */
+.seventh .pics7 .c7 img {
+  width: 50vw;
+  height: auto;
+}
+
+/* line 248, app/assets/stylesheets/about.scss */
+.eighth {
+  background-color: #000;
+  background-image: url(section8-08d56f750632c0f5ce1861607cc2eac2845137656f8deb3893bc9a9295c1cd41.svg);
+  background-size: 100%;
+  background-position: center;
+}
+
+/* line 255, app/assets/stylesheets/about.scss */
+.eighth .textblock8 {
+  margin: 6.25vw 10.556vw;
+}
+
+/* line 257, app/assets/stylesheets/about.scss */
+.eighth .textblock8 h2 {
+  font-size: 6.667vw;
+  font-weight: 600;
+  line-height: 88%;
+  margin: 0;
+}
+
+/* line 263, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .whitehead {
+  color: #ECE1CF;
+}
+
+/* line 266, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .list {
+  margin-top: 4.861vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 270, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .list ul {
+  margin-right: 10.069vw;
+}
+
+/* line 272, app/assets/stylesheets/about.scss */
+.eighth .textblock8 .list ul li {
+  color: #ECE1CF;
+  font-size: 2.361vw;
+  line-height: 125%;
+  font-weight: 600;
+  margin: 15px 0;
+}
+
+/* line 283, app/assets/stylesheets/about.scss */
+.ninth {
+  background-color: #CD4223;
+  height: 50vh;
+}
+
+/* line 286, app/assets/stylesheets/about.scss */
+.ninth footer {
+  margin: 4.167vw;
+}
+
+/* line 288, app/assets/stylesheets/about.scss */
+.ninth footer .people {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 291, app/assets/stylesheets/about.scss */
+.ninth footer .people .curator {
+  margin-left: 23.5vw;
+}
+
+/* line 294, app/assets/stylesheets/about.scss */
+.ninth footer .people h5 {
+  font-size: 1.944vw;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 1.736vw;
+  color: #000;
+  width: auto;
+}
+
+/* line 302, app/assets/stylesheets/about.scss */
+.ninth footer .people .names {
+  font-size: 1.528vw;
+  line-height: 125%;
+  margin-top: 0;
+  margin-left: 0;
+  color: #000;
+  width: auto;
+}
+
+/* line 311, app/assets/stylesheets/about.scss */
+.ninth footer .year {
+  margin-top: 6.944vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 316, app/assets/stylesheets/about.scss */
+.ninth footer .year .years {
+  width: auto;
+  font-size: 1.389vw;
+  font-weight: 600;
+  margin-top: 0;
+  margin-left: 0;
+  color: #000;
+}
+/* line 6, app/assets/stylesheets/posts.scss */
+body {
+  background: #F1F1F1;
+}
+
+/* line 9, app/assets/stylesheets/posts.scss */
+.postbody {
+  width: auto;
+  height: auto;
+  margin-top: 4.167vw;
+  margin-left: 8.334vw;
+}
+
+/* line 14, app/assets/stylesheets/posts.scss */
+.postbody .postlinks {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 17, app/assets/stylesheets/posts.scss */
+.postbody .postlinks .edition {
+  width: 11vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 1.488vw;
+}
+
+/* line 26, app/assets/stylesheets/posts.scss */
+.postbody .postlinks .edition a {
+  margin-top: 0.417vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 34, app/assets/stylesheets/posts.scss */
+.postbody .postlinks .back {
+  width: 6vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 42, app/assets/stylesheets/posts.scss */
+.postbody .postlinks .back a {
+  margin-top: 0.417vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 51, app/assets/stylesheets/posts.scss */
+.postbody .allcontent {
+  margin-top: 4.167vw;
+}
+
+/* line 53, app/assets/stylesheets/posts.scss */
+.postbody .allcontent .name {
+  font-size: 3.810vw;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+/* line 58, app/assets/stylesheets/posts.scss */
+.postbody .allcontent .title {
+  font-size: 18px;
+  font-weight: 600;
+  color: grey;
+  margin-top: 0;
+}
+
+/* line 64, app/assets/stylesheets/posts.scss */
+.postbody .allcontent .skazka {
+  width: 60vw;
+  height: auto;
+  margin-top: 45px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* line 76, app/assets/stylesheets/posts.scss */
+.head {
+  margin: 4.167vw 0 0 4.167vw;
+}
+
+/* line 78, app/assets/stylesheets/posts.scss */
+.head h1 {
+  font-size: 3.810vw;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+/* line 83, app/assets/stylesheets/posts.scss */
+.head .link {
+  margin-top: 0.893vw;
+  margin-bottom: 3.810vw;
+  width: 9.226vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 93, app/assets/stylesheets/posts.scss */
+.head .link a {
+  margin-top: 0.476vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 102, app/assets/stylesheets/posts.scss */
+.postsection {
+  width: 100vw;
+  height: auto;
+  background: #fff;
+  border-radius: 2.679vw;
+}
+
+/* line 107, app/assets/stylesheets/posts.scss */
+.postsection table {
+  border-spacing: 1.488vw 0;
+  margin: 4.167vw 0 0 4.167vw;
+}
+
+/* line 112, app/assets/stylesheets/posts.scss */
+.postsection table thead tr th {
+  font-size: 1.389vw;
+  text-align: left;
+}
+
+/* line 118, app/assets/stylesheets/posts.scss */
+.postsection table tbody {
+  vertical-align: baseline;
+}
+
+/* line 120, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr {
+  margin-top: 2.679vw;
+}
+
+/* line 122, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr td {
+  font-size: 1.071vw;
+  font-weight: 400;
+}
+
+/* line 125, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr td .open {
+  width: 7.440vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 133, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr td .open a {
+  margin-top: 0.417vw;
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 141, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr td .edit {
+  width: 11.012vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 150, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr td .edit a {
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* line 157, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr td .delete {
+  width: 7.440vw;
+  height: 2.381vw;
+  border-radius: 2.679vw;
+  background: #000;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* line 166, app/assets/stylesheets/posts.scss */
+.postsection table tbody tr td .delete a {
+  font-size: 1.190vw;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+/* line 12, app/assets/stylesheets/promo.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 16, app/assets/stylesheets/promo.scss */
+body {
+  font-family: 'Proxima Nova';
+  margin: 0;
+}
+
+/* line 20, app/assets/stylesheets/promo.scss */
+.three, .one {
+  background-color: #CD4223;
+}
+
+/* line 23, app/assets/stylesheets/promo.scss */
+.two {
+  background-color: #000;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 28, app/assets/stylesheets/promo.scss */
+.main {
+  margin-top: 3vw;
+}
+
+/* line 32, app/assets/stylesheets/promo.scss */
+section {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+/* line 37, app/assets/stylesheets/promo.scss */
+section a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* line 41, app/assets/stylesheets/promo.scss */
+section .descr {
+  position: relative;
+  z-index: 5;
+}
+
+/* line 44, app/assets/stylesheets/promo.scss */
+section .descr h1 {
+  color: #ECE1CF;
+  font-size: 16.667vw;
+  line-height: 100%;
+  font-weight: 800;
+  margin-left: 4.167vw;
+  margin-top: -33.336vw;
+}
+
+/* line 52, app/assets/stylesheets/promo.scss */
+section .descr h3 {
+  font-size: 2.6vw;
+  color: #ECE1CF;
+  margin-left: 4.37535vw;
+  margin-top: -15.8346vw;
+  font-weight: 600;
+}
+
+/* line 60, app/assets/stylesheets/promo.scss */
+section h2 {
+  margin: 4.167vw 0 0 4.167vw;
+  color: #000;
+  font-size: 7.361vw;
+  line-height: 90%;
+  font-weight: 800;
+  font-style: normal;
+  position: relative;
+  display: inline-block;
+}
+
+/* line 70, app/assets/stylesheets/promo.scss */
+section .subscribe {
+  margin-top: 8.334vw;
+}
+
+/* line 73, app/assets/stylesheets/promo.scss */
+section .larets {
+  color: #ECE1CF;
+  font-size: 2.222vw;
+  line-height: 115%;
+  width: 39vw;
+  font-weight: 400;
+  margin-left: -34.1694vw;
+  margin-top: 21.6684vw;
+}
+
+/* line 82, app/assets/stylesheets/promo.scss */
+section header {
+  width: 100vw;
+  height: 4.167vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* line 91, app/assets/stylesheets/promo.scss */
+section header h4 {
+  font-size: 2.222vw;
+  line-height: 80%;
+  text-align: center;
+  color: #000;
+  margin-left: 4.167vw;
+  margin-right: 4.167vw;
+  font-weight: 700;
+}
+
+/* line 101, app/assets/stylesheets/promo.scss */
+section form {
+  width: 45.139vw;
+  height: 4.861vw;
+  margin-left: 4.167vw;
+  margin-top: -1vw;
+  background: #000;
+  border-radius: 3.264vw;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* line 113, app/assets/stylesheets/promo.scss */
+section form input[type="email"] {
+  background-color: transparent;
+  border: none;
+  decoration: none;
+  font-size: 1.5vw;
+  line-height: 100%;
+  color: rgba(236, 225, 207, 0.7);
+  margin: 1.597vw 2.986vw;
+  font-weight: 400;
+  border: none;
+}
+
+/* line 122, app/assets/stylesheets/promo.scss */
+section form input[type="email"]:focus {
+  outline-width: 0;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -webkit-writing-mode: none;
+}
+
+/* line 129, app/assets/stylesheets/promo.scss */
+section form input[type="submit"] {
+  background-color: transparent;
+  border: none;
+  decoration: none;
+  font-size: 1.944vw;
+  line-height: 100%;
+  font-weight: 400;
+  color: #ECE1CF;
+  margin-right: 2.92vw;
+  cursor: pointer;
+}
+
+/* line 139, app/assets/stylesheets/promo.scss */
+section .images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  z-index: 2;
+}
+
+/* line 144, app/assets/stylesheets/promo.scss */
+section .images .c1 {
+  margin-left: -8.334vw;
+  margin-top: -2.0835vw;
+}
+
+/* line 147, app/assets/stylesheets/promo.scss */
+section .images .c1 img {
+  width: 41.667vw;
+  height: auto;
+}
+
+/* line 152, app/assets/stylesheets/promo.scss */
+section .images .quote1 {
+  margin-top: 14.5845vw;
+  margin-left: -8.334vw;
+}
+
+/* line 155, app/assets/stylesheets/promo.scss */
+section .images .quote1 img {
+  width: 26.736vw;
+  height: auto;
+}
+
+/* line 160, app/assets/stylesheets/promo.scss */
+section .images .quote2 {
+  margin-left: -4.167vw;
+  margin-top: 24.1686vw;
+}
+
+/* line 163, app/assets/stylesheets/promo.scss */
+section .images .quote2 img {
+  width: 30vw;
+  height: auto;
+}
+
+/* line 169, app/assets/stylesheets/promo.scss */
+section .images .c2 img {
+  margin-left: -16.668vw;
+  margin-top: 16.668vw;
+  width: 41.667vw;
+  height: auto;
+}
+
+/* line 178, app/assets/stylesheets/promo.scss */
+section .c_3 img {
+  width: 44vw;
+  height: auto;
+  margin-top: 12.501vw;
+  margin-left: 2.0835vw;
+}
+
+/* line 186, app/assets/stylesheets/promo.scss */
+section .quote3 img {
+  width: 41.042vw;
+  height: auto;
+  margin-top: 12.501vw;
+  margin-left: -5.8338vw;
+}
+
+/* line 193, app/assets/stylesheets/promo.scss */
+section .quote4 {
+  margin-top: 2vw;
+  margin-left: 38.5vw;
+  margin-bottom: .7vw;
+}
+
+/* line 197, app/assets/stylesheets/promo.scss */
+section .quote4 img {
+  width: 41.042vw;
+  height: auto;
+}
+
+/* line 202, app/assets/stylesheets/promo.scss */
+section .opacity {
+  opacity: 0;
+  transition: .5s;
+}
+
+/* line 206, app/assets/stylesheets/promo.scss */
+section .quote4_a {
+  top: 24.5vw;
+  margin-left: 38.5vw;
+  margin-bottom: .7vw;
+  position: absolute;
+  z-index: 10;
+  opacity: 0;
+}
+
+/* line 213, app/assets/stylesheets/promo.scss */
+section .quote4_a img {
+  width: 41.042vw;
+  height: auto;
+}
+
+/* line 218, app/assets/stylesheets/promo.scss */
+section .opacity_a {
+  opacity: 1;
+  transition: .5s;
+}
+
+/* line 222, app/assets/stylesheets/promo.scss */
+section .down {
+  margin-top: -1vw;
+  margin-left: 4.167vw;
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 227, app/assets/stylesheets/promo.scss */
+section .down .icons {
+  margin-top: 16vw;
+}
+
+/* line 229, app/assets/stylesheets/promo.scss */
+section .down .icons img {
+  margin-right: 1.389vw;
+}
+
+/* line 233, app/assets/stylesheets/promo.scss */
+section .down .c_4 {
+  margin-left: 52vw;
+  margin-top: -8vw;
+}
+
+/* line 236, app/assets/stylesheets/promo.scss */
+section .down .c_4 img {
+  width: 28vw;
+  height: auto;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+/* @font-face {
+   font-family: 'ProximaNova';
+   src: url('ProximaNova-Bold.woff') format("webopenfontformat");
+
+}
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('ProximaNova-Regular.woff') format("webopenfontformat");
+
+}
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('ProximaNova-Light.woff') format("webopenfontformat");
+
+} */
+
+/*# sourceMappingURL=application.css-dd489b449007cc25eab44d62732acbc8cfa0742617278f8713e59669ec3f714b.map */
